@@ -43,3 +43,7 @@ indexed in the database.
 Device data is stored locally and is not included in the Git repository. Keep
 local credentials and developer-tool configuration out of commits; the local
 OpenCode configuration file is ignored by Git.
+
+## Laboratory Exercise 05
+
+This project demonstrates offline-first CRUD operations using Expo SQLite.
